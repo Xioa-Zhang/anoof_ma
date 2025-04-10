@@ -1,2 +1,1 @@
-this is the demo
-  
+I wanna learn python for data science.
