@@ -1,4 +1,5 @@
-# 👋 Hey there! I'm Hamza
+# 👋 Hey there! we're Hamza & Anoof MA
+# 👋 Hey there! I'm Anoof MA
 
 ### 💻 Student | 💡 Innovator | 🤖 Robotics Enthusiast | 🕋 Peace Advocate
 
